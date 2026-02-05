@@ -43,4 +43,19 @@ A deep dive into the 3-year timeline of the dataset:
 * `requirements.txt`: Necessary libraries to reproduce the analysis environment.
 
 ---
-*Developed as part of a Data Science Portfolio to demonstrate EDA and Time-Series proficiency.*
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📧 Contact
+
+**Your Name**  
+📧 Email: prashantshukla8851@gmail.com
+💼 LinkedIn: [Prashant Shukla](https://www.linkedin.com/in/prashant-shukla-58ba19373) 
+
+**Project Link:** [https://github.com/pr4sh4nt-shukla/telecom-churn-prediction](https://github.com/pr4sh4nt-shukla/telecom-churn-prediction)
+
+---
+
+⭐ **If you found this project helpful, please consider giving it a star!** ⭐
