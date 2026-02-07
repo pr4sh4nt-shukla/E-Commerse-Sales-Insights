@@ -54,7 +54,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 📧 Email: prashantshukla8851@gmail.com
 💼 LinkedIn: [Prashant Shukla](https://www.linkedin.com/in/prashant-shukla-58ba19373) 
 
-**Project Link:** [https://github.com/pr4sh4nt-shukla/telecom-churn-prediction](https://github.com/pr4sh4nt-shukla/telecom-churn-prediction)
+**Project Link:** [https://github.com/pr4sh4nt-shukla/E-Commerse-Sales-Insights](https://github.com/pr4sh4nt-shukla/E-Commerse-Sales-Insights)
 
 ---
 
